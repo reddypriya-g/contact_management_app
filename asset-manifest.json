@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/http/reddypriya-g.github.io/contact_management_app/static/css/main.47c06eb0.css",
+    "main.js": "/http/reddypriya-g.github.io/contact_management_app/static/js/main.b6cbb1ba.js",
+    "static/js/787.cf6a4479.chunk.js": "/http/reddypriya-g.github.io/contact_management_app/static/js/787.cf6a4479.chunk.js",
+    "static/media/pin.png": "/http/reddypriya-g.github.io/contact_management_app/static/media/pin.abf0fdd58616d801b5c9.png",
+    "index.html": "/http/reddypriya-g.github.io/contact_management_app/index.html",
+    "main.47c06eb0.css.map": "/http/reddypriya-g.github.io/contact_management_app/static/css/main.47c06eb0.css.map",
+    "main.b6cbb1ba.js.map": "/http/reddypriya-g.github.io/contact_management_app/static/js/main.b6cbb1ba.js.map",
+    "787.cf6a4479.chunk.js.map": "/http/reddypriya-g.github.io/contact_management_app/static/js/787.cf6a4479.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47c06eb0.css",
+    "static/js/main.b6cbb1ba.js"
+  ]
+}
